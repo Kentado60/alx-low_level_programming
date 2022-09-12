@@ -10,7 +10,5 @@ int main(void)
 
 	puts(string);
 	
-	/*Tried printing it directly */
-
 	return (0);
 }
