@@ -5,6 +5,6 @@ int main (void)
 	puts(string);
 	/* tried prnting it directly*/
 	puts("\"Programming is like building a multilingual puzzle\"");
-	return (0)
+	return (0);
 }
 
