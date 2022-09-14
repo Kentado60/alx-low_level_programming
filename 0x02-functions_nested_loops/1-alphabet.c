@@ -2,7 +2,7 @@
 
 /**
  * print_alphabet - Entry point
- * Description: a funtion that prints alphabet in lower case
+ * Description: a function that prints alphabet in lowercase
  * Return: void
  */
 
