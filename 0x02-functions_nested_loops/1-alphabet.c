@@ -9,13 +9,13 @@
 
 void print_alphabet(void)
 {
-		int i;
+	int i;
 
-		for (i = 'a'; i <= 'z'; i++)
-		{
-			putchar(i);
-		}
-		putchar(print_alphabet'\n');
+	for (i = 'a'; i <= 'z'; i++)
+	{
+		putchar(i);
+	}
+	putchar(print_alphabet'\n');
 
-		return (void);
+	return (void);
 }
